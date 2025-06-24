@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.1.0](https://github.com/Flokri/github-unleashed-sample-app/compare/v0.0.1...v0.1.0) (2025-06-24)
+
+
+### Features
+
+* new new ([36716e7](https://github.com/Flokri/github-unleashed-sample-app/commit/36716e7bd9659a448924725a3329ea4a59729d93))
+
+
+### Bug Fixes
+
+* fixed a typo ([78738a4](https://github.com/Flokri/github-unleashed-sample-app/commit/78738a46c485d9b2536264337bab718c370ea954))
+
 ## 0.0.1 (2025-06-24)
 
 
